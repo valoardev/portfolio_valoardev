@@ -18,7 +18,6 @@ Um espaço para compartilhar minha trajetória em tecnologia, meus projetos e os
 
 [![Prévia do portfólio de Gabriel Valois](img/portfolio-preview.png)](https://valoardev.github.io/)
 
-> **[Acesse o site completo → valoardev.github.io](https://valoardev.github.io/)**
 
 ## 🙋‍♂️ Sobre mim
 
