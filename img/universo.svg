@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 410" fill="none">
+<defs><radialGradient id="glow"><stop stop-color="#759454" stop-opacity=".23"/><stop offset="1" stop-color="#759454" stop-opacity="0"/></radialGradient><linearGradient id="box" x1="180" y1="140" x2="300" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#35452c"/><stop offset="1" stop-color="#1a251c"/></linearGradient></defs>
+<circle cx="250" cy="205" r="200" fill="url(#glow)"/>
+<g stroke="#607450"><ellipse cx="250" cy="205" rx="198" ry="89" transform="rotate(-33 250 205)" opacity=".65"/><ellipse cx="250" cy="205" rx="198" ry="89" transform="rotate(33 250 205)" opacity=".4"/><ellipse cx="250" cy="205" rx="112" ry="164" opacity=".27"/><circle cx="250" cy="205" r="135" stroke-dasharray="2 7" opacity=".3"/></g>
+<g fill="#bbdc94"><circle cx="79" cy="116" r="4"/><circle cx="421" cy="293" r="4"/><circle cx="353" cy="118" r="3"/><circle cx="170" cy="333" r="3"/></g>
+<rect x="187" y="140" width="130" height="130" rx="28" fill="#0b100c" opacity=".35" transform="rotate(-9 252 205) translate(0 9)"/>
+<rect x="185" y="138" width="130" height="130" rx="28" fill="url(#box)" stroke="#89a76c" transform="rotate(-9 250 203)"/>
+<path d="m217 181 25 48 24-48" stroke="#c6ec9b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="280" cy="226" r="5" fill="#c6ec9b"/>
+<g font-family="monospace" font-size="12" fill="#c3d3b5"><rect x="47" y="227" width="93" height="37" rx="7" fill="#202c20" stroke="#4e6345"/><text x="62" y="250">&lt;/&gt; código</text><rect x="317" y="73" width="124" height="37" rx="7" fill="#202c20" stroke="#4e6345"/><text x="332" y="97">⌘ automação</text><rect x="313" y="309" width="116" height="37" rx="7" fill="#202c20" stroke="#4e6345"/><text x="329" y="333">✳ novas ideias</text></g>
+<g stroke="#687e58" stroke-width="1"><path d="M71 60v12m-6-6h12M435 202v12m-6-6h12M240 354v12m-6-6h12"/></g>
+<text x="53" y="365" font-family="monospace" font-size="10" fill="#7f9476">const futuro = aprender();</text>
+</svg>
