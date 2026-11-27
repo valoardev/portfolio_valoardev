@@ -6,7 +6,7 @@
 
 Um espaço para compartilhar minha trajetória em tecnologia, meus projetos e os aprendizados de cada etapa.
 
-[![Acessar portfólio](https://img.shields.io/badge/🌐_Acessar_portfólio-2563EB?style=for-the-badge)](https://valoardev.github.io/)
+[![Acessar portfólio](https://img.shields.io/badge/🌐_Acessar_portfólio-2563EB?style=for-the-badge)](https://valoardev.github.io/portfolio_valoardev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/biel-valois)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valoardev)
 
@@ -16,7 +16,7 @@ Um espaço para compartilhar minha trajetória em tecnologia, meus projetos e os
 
 ## ✨ Conheça o portfólio
 
-[![Prévia do portfólio de Gabriel Valois](img/portfolio-preview.png)](https://valoardev.github.io/)
+[![Prévia do portfólio de Gabriel Valois](img/portfolio-preview.png)](https://valoardev.github.io/portfolio_valoardev)
 
 
 ## 🙋‍♂️ Sobre mim
@@ -100,7 +100,8 @@ O projeto utiliza **HTML, CSS e JavaScript**, com Bootstrap para apoiar a interf
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/valoardev/valoardev.github.io.git
+   git clone https://github.com/valoardev/portfolio_valoardev.git
+   cd portfolio_valoardev
    ```
 
 2. Abra a pasta no **Visual Studio Code**.
@@ -147,7 +148,7 @@ Algumas ilustrações e o avatar foram produzidos com apoio de inteligência art
 
 ## 📬 Vamos conversar?
 
-- **Portfólio:** [valoardev.github.io](https://valoardev.github.io/)
+- **Portfólio:** [valoardev.github.io/portfolio_valoardev](https://valoardev.github.io/portfolio_valoardev)
 - **LinkedIn:** [biel-valois](https://www.linkedin.com/in/biel-valois)
 - **GitHub:** [valoardev](https://github.com/valoardev)
 - **Instagram:** [biel_valois](https://www.instagram.com/biel_valois)
