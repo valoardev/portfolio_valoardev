@@ -1,67 +1,165 @@
-# ValoarDev — Portfólio de Gabriel Valois
+<div align="center">
 
-Site completo em HTML, CSS e JavaScript, com Bootstrap, imagens e vídeos locais.
-Versão exportada em 27/11/2026, commit 8dc55c495b32e6c3943faaa425676930687ac0c5.
+# 👨‍💻 ValoarDev | Portfólio
 
-## Publicar no GitHub Pages
-1. Extraia este ZIP no computador. Não envie o ZIP como arquivo ao repositório.
-2. Crie um repositório público chamado valoardev.github.io na conta valoardev.
-3. Envie TODO o conteúdo extraído para a branch main, mantendo as pastas.
-   O index.html precisa aparecer na raiz do repositório, junto com css, js, html,
-   img, vendor e .nojekyll. Não coloque tudo dentro de outra pasta.
-4. Em Settings > Pages > Build and deployment, escolha:
-   Source: Deploy from a branch
-   Branch: main
-   Folder: /(root)
-5. Clique Save. Aguarde a publicação e use Visit site.
-6. Endereço esperado: https://valoardev.github.io/
+**Explorando o mundo. Codificando ideias. Desenvolvendo o futuro.**
 
-Para enviar pelo navegador: Add file > Upload files e arraste os arquivos e pastas.
-Inclua o arquivo .nojekyll (alguns sistemas ocultam nomes iniciados por ponto).
-Para enviar pelo GitHub Desktop: clone o repositório, copie o conteúdo deste ZIP
-para a pasta clonada, faça Commit e clique Push origin.
-Não precisa de npm, servidor de backend, Python ou etapa de build para publicar.
+Um espaço para compartilhar minha trajetória em tecnologia, meus projetos e os aprendizados de cada etapa.
 
-Se preferir um repositório chamado portfolio, o endereço será:
-https://valoardev.github.io/portfolio/
-Os links internos usam caminhos relativos compatíveis com as duas opções.
+[![Acessar portfólio](https://img.shields.io/badge/🌐_Acessar_portfólio-2563EB?style=for-the-badge)](https://valoardev.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/biel-valois)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valoardev)
 
-## Testar no computador
-Abra a pasta no VS Code e use a extensão Live Server para servir index.html.
-Também pode usar, com Python instalado: python -m http.server 8000
-Depois abra http://localhost:8000/ no navegador.
-Um servidor local é preferível a abrir via file:// para SVG e outros recursos.
+</div>
 
-## Onde editar
-- index.html: apresentação, trajetória, contatos e estrutura da página.
-- css/style.css: aparência e regras responsivas.
-- js/dados/projetos.js: projetos, capas, galerias e links.
-- js/dados/feed.js: publicações, textos, categorias, fotos e vídeo.
-- js/dados/tecnologias.js: tecnologias e interesses.
-- js/dados/visual.js: avatar, foto e vídeo de fundo.
-- html/projeto.html e js/projetos.js: página de detalhes dos projetos.
-- img/: imagens e vídeos, inclusive hero-jornada.mp4 e triplog-demo.mp4.
-- vendor/: Bootstrap local.
+---
 
-Depois de editar, envie as alterações para main. O Pages publica novamente.
+## ✨ Conheça o portfólio
 
-## Recursos que usam internet
-O painel do GitHub consulta APIs públicas para perfil, repositórios e contribuições.
-O calendário usa github-contributions-api.jogruber.de.
-Os ícones de tecnologias usam Devicon pelo CDN jsDelivr.
-Esses serviços podem impor limites ou ficar indisponíveis; não é necessário token.
-O feed é editado em js/dados/feed.js; ele não importa posts do LinkedIn automaticamente.
-O vídeo do pitch abre o YouTube; as demonstrações e o fundo estão no pacote.
+[![Prévia do portfólio de Gabriel Valois](img/portfolio-preview.png)](https://valoardev.github.io/)
 
-## Endereço personalizado
-valoardev.portifolio não pode ser usado atualmente: .portifolio não é uma extensão
-delegada na lista da IANA. Um domínio próprio precisa ser registrado e estar
-disponível. Exemplos de formato: valoardev.com.br ou valoardev.dev.
-A disponibilidade desses nomes não foi verificada.
-Após registrar, configure o domínio em Settings > Pages e o DNS no provedor.
-Este pacote não inclui CNAME para um domínio que você ainda não possui.
+> **[Acesse o site completo → valoardev.github.io](https://valoardev.github.io/)**
 
-## Documentação oficial
-https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
-https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
-https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+## 🙋‍♂️ Sobre mim
+
+Prazer, sou **Gabriel Valois Rodrigues**, também conhecido como **ValoarDev**.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estagiário em **administração de Microsoft 365**. Minha trajetória começou no suporte técnico, onde desenvolvi experiência com atendimento, investigação de problemas e administração de contas e serviços.
+
+Hoje, sigo ampliando meus conhecimentos em **programação, automações e desenvolvimento de software**, conectando o que estudo aos desafios que encontro na prática.
+
+Este portfólio acompanha essa evolução.
+
+## 🧭 O que você encontra por aqui
+
+| Seção | Conteúdo |
+|---|---|
+| **Apresentação** | Quem sou, minha formação e meus interesses. |
+| **Trajetória** | Etapas profissionais, atividades e aprendizados. |
+| **Projetos** | Trabalhos práticos, tecnologias, imagens e demonstrações. |
+| **Tecnologias** | Ferramentas que utilizo e assuntos que quero explorar. |
+| **Em desenvolvimento** | Projetos em andamento e próximos passos. |
+| **Feed** | Eventos, conquistas e registros do meu aprendizado. |
+| **GitHub** | Contribuições e repositórios atualizados. |
+| **Contatos** | Canais para conversar e trocar ideias. |
+
+## 🛠️ Tecnologias do site
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+O projeto utiliza **HTML, CSS e JavaScript**, com Bootstrap para apoiar a interface responsiva. A hospedagem é feita no **GitHub Pages**, sem necessidade de backend ou etapa de compilação.
+
+## 🎨 Recursos da interface
+
+- 🌙 Alternância entre os temas claro e escuro.
+- 🎬 Vídeo de fundo na apresentação, com controle de reprodução.
+- 🗺️ Trajetória interativa com detalhes de cada etapa.
+- 🪟 Cartões e galerias inspirados em janelas do macOS.
+- 🗂️ Filtros por categoria e navegação lateral entre projetos e publicações.
+- 🖼️ Galerias de imagens e vídeos nas páginas dos projetos.
+- 📱 Layout responsivo para diferentes tamanhos de tela.
+- 🟩 Painel com atividade pública do GitHub.
+
+## 🚀 Projetos apresentados
+
+| Projeto | Proposta |
+|---|---|
+| **Scripts de administração e automação** | Automações com PowerShell para incorporações, contas, grupos e rotinas administrativas. |
+| **Minha Jornada** | Projeto web da equipe **Orbit**, voltado ao acolhimento de imigrantes, oportunidades e gestão de uma ONG. |
+| **Meu espaço na internet** | Este portfólio: identidade, trajetória e projetos reunidos em um único lugar. |
+| **TripLog** | Proposta de planejamento de viagens por voz, desenvolvida em equipe pela **Orbit**. |
+| **Senhas de atendimento em C** | Sistema de terminal para cadastro, emissão de senhas, fila por prioridade e histórico de atendimentos. |
+
+### Em desenvolvimento
+
+- **Planner financeiro com Telegram:** integração de uma planilha com macros e VBA a um bot, com proposta de interação em linguagem natural.
+- **Conectando as peças:** projeto de aprendizado integrando JavaScript, Microsoft Graph e Power Automate.
+
+## 📂 Organização do projeto
+
+| Arquivo ou pasta | Responsabilidade |
+|---|---|
+| `index.html` | Página inicial e estrutura das seções. |
+| `html/` | Páginas complementares, incluindo detalhes dos projetos. |
+| `css/` | Estilos, temas, animações e responsividade. |
+| `js/` | Interações, renderização, filtros e integrações. |
+| `js/dados/` | Conteúdo editável de projetos, feed, tecnologias e apresentação. |
+| `img/` | Imagens, logos, capturas e vídeos. |
+| `vendor/` | Arquivos locais do Bootstrap. |
+| `.nojekyll` | Configuração para servir os arquivos estáticos no GitHub Pages. |
+
+## 💻 Executar localmente
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/valoardev/valoardev.github.io.git
+   ```
+
+2. Abra a pasta no **Visual Studio Code**.
+3. Use a extensão **Live Server** para abrir o `index.html`.
+
+Também é possível iniciar um servidor local com Python, dentro da pasta do projeto:
+
+```bash
+python -m http.server 8000
+```
+
+Depois, acesse **http://localhost:8000/**.
+
+> Não é necessário executar `npm install` ou compilar o projeto.
+
+## 📝 Atualizar o conteúdo
+
+O conteúdo está separado dos componentes visuais para facilitar a manutenção:
+
+| Quero atualizar… | Arquivo |
+|---|---|
+| Projetos, tecnologias utilizadas, links e galerias | `js/dados/projetos.js` |
+| Publicações e fotos do feed | `js/dados/feed.js` |
+| Tecnologias e interesses | `js/dados/tecnologias.js` |
+| Avatar, foto de perfil e vídeo de fundo | `js/dados/visual.js` |
+| Apresentação e trajetória | `index.html` |
+
+Após editar, envie as alterações para a branch configurada no GitHub Pages.
+
+## 🔌 Integrações e recursos externos
+
+- **GitHub REST API:** informações públicas do perfil e dos repositórios.
+- **GitHub Contributions API:** calendário de contribuições.
+- **Devicon via jsDelivr:** ícones das tecnologias.
+- **YouTube:** acesso ao pitch do TripLog.
+
+O feed é mantido nos arquivos do projeto; **não há importação automática de publicações do LinkedIn**.
+
+## 🌱 Aprendizado e evolução
+
+Este projeto registra meu desenvolvimento profissional e técnico. Entre os próximos passos está avaliar o uso de **Angular ou React** em futuras atualizações.
+
+Algumas ilustrações e o avatar foram produzidos com apoio de inteligência artificial. O avatar foi baseado em fotos reais; imagens conceituais são identificadas nas respectivas legendas.
+
+## 📬 Vamos conversar?
+
+- **Portfólio:** [valoardev.github.io](https://valoardev.github.io/)
+- **LinkedIn:** [biel-valois](https://www.linkedin.com/in/biel-valois)
+- **GitHub:** [valoardev](https://github.com/valoardev)
+- **Instagram:** [biel_valois](https://www.instagram.com/biel_valois)
+- **E-mail:** [biel.valois18@gmail.com](mailto:biel.valois18@gmail.com)
+
+---
+
+<div align="center">
+
+**Gabriel Valois · ValoarDev**
+
+Feito com curiosidade, código e aprendizado.
+
+</div>
